@@ -25,7 +25,7 @@ The user should be able to:
 
 
 ## Demo
-![Demo of Fitness Tracker](/images/Tracker.gif)
+![Demo of Fitness Tracker](./images/Tracker.gif)
 
 
 ## Technology
